@@ -16,7 +16,7 @@ Files & functions
 SOURCE DATABASE
 
 * shakespeare.db -- download from https://rice.box.com/s/z9o1f09bf4n4nvkwl794xcw7hcvni5da -- an sqlite database that contains 3 tables
-* * articles: basic metadata on 71,639 JSTOR articles that quote Shakespeare
+ * articles: basic metadata on 71,639 JSTOR articles that quote Shakespeare
 * * play_lines: basic metadata on the 94,049 known Shakespearean play lines quoted by those articles
 * * matches: 623,428 matches (one to one) of articles to play lines
 
